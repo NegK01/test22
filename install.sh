@@ -35,6 +35,7 @@ npm i performance-now -y
 npm i form-data -y
 npm i yt-search -y
 npm i google-it -y
+npm i googleit -y
 npm i g-i-s -y
 npm i hxz-api -y
 npm i cheerio -y
